@@ -2,5 +2,5 @@ nhmm
 ====
 
 
-A Non-Homogeneous Hidden Markov Model (NHMM) is a  Markov model in which the system being modeled is assumed to be a Markov process with unobserved (hidden) state. Moreover, the markov transition probability between different states is time dependent.
+A Non-Homogeneous Hidden Markov Model (NHMM) is an extension to homogeneous hidden markov model (usually referred to Hidden Markov Model or HMM in short) in which the transition probability between different states is time dependent.
 
