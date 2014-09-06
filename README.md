@@ -7,6 +7,6 @@ A "Non-homogeneous Hidden Markov Model" ("NHMM") is a statistical model that ext
 An important application of NHMM is forecasting. Here, the weather states is the hidden states that have a Markov property. In this example, the transition probability between the states depends on the quarter of the year and it almost repeats every year. Hence, the transition probabilities have seasonality factor that is modeled in the NHMM covariates.
 
 
-Main Contributor:
+Main contributors:
 1- Babak Javid
 2- Hamed Firooz
